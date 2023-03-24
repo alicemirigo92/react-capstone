@@ -39,10 +39,6 @@ body {
 .flag {
   width: 25%;
   height: 90px;
-
-  /* margin-right: 10%;
-  margin-left: 2%;
-  margin-top: 20px; */
   margin: 20px auto 0;
   display: block;
 }
