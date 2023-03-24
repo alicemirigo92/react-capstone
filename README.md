@@ -98,6 +98,8 @@ Clone this repository to your desired folder:
 
 Install this project with:
 
+npm install
+
 
 
 ```sh
@@ -140,7 +142,7 @@ You can deploy this project using:
 
 -- GitHub: [Alice Mirigo](https://github.com/alicemirigo92)
 - Twitter: [@Gathonimirigo](https://twitter.com/GathoniMirigo)
-- LinkedIn: [Alice](www.linkedin.com/in/alice-mirigo)
+- LinkedIn: [Alice](https://www.linkedin.com/in/alice-mirigo/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -180,7 +182,7 @@ If you like this project give it a **STAR**
 
 I would like to thank:
 - Microverse
-- My standup team
+  Nelson Sakwa who was the autor original design
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

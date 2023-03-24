@@ -2,6 +2,7 @@ body {
   background-image: url(/src/assets/blue\ 1.png);
   background-size: cover;
   background-position: right;
+  font-family: 'Lato', sans-serif;
   height: auto;
 }
 
