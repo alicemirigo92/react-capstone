@@ -1,0 +1,103 @@
+body {
+  background-image: url(/src/assets/blue\ 1.png);
+  background-size: cover;
+  background-position: right;
+  font-family: 'Lato', sans-serif;
+  height: auto;
+}
+
+header li {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  color: white;
+}
+
+a {
+  display: flex;
+  justify-content: center;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+header li a {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  text-decoration: none;
+  color: aliceblue;
+  font-size: larger;
+  font-weight: bolder;
+  border: 1px solid aliceblue;
+  padding: 10px;
+  height: 24px;
+  border-radius: 20px;
+}
+
+.Flag {
+  display: flex;
+  width: 70%;
+  text-align: center;
+  border-radius: 20px;
+}
+
+.country-info li {
+  border: 1px solid rgba(210, 210, 245, 0.253);
+  height: 50px;
+  border-radius: 2px;
+  font-size: 27px;
+  display: flex;
+  align-items: center;
+  background-color: #29435b83;
+  color: aliceblue;
+  padding: 10px;
+  width: 90%;
+  width: 95%;
+}
+
+.country-name {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  color: aliceblue;
+}
+
+.view {
+  width: 45%;
+  display: flex;
+  height: 55px;
+  text-decoration: none;
+  align-items: center;
+  background-color: #0b8448;
+  color: aliceblue;
+  border: 1px solid rgba(68, 41, 41, 0.192);
+  border-radius: 8px;
+  text-align: center;
+  margin-top: 5px;
+  margin-left: 28%;
+}
+
+.info {
+  color: #0b8448;
+}
+
+.title {
+  margin-right: 10px;
+  margin-left: 29px;
+}
+
+span.iconn {
+  display: flex;
+  margin-left: 37%;
+  position: absolute;
+  align-items: center;
+}
+
+.Icon {
+  margin-left: 86%;
+  position: absolute;
+}
